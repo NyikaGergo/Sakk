@@ -1,0 +1,14 @@
+div {
+    width: 3cm;
+    height: 3cm;
+    display: inline-block;
+    margin: -2px;
+    }
+    
+    .barna {
+        background-color: burlywood;
+    }
+    
+    .sotet {
+    background-color: black;
+    }
